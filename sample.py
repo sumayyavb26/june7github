@@ -1,1 +1,1 @@
-print("hai good morning")
+print("hai afternoon")
